@@ -5,6 +5,7 @@ Hello and welcome to this blog. If you found this, how did you find this? At the
 
 Anyways, they recommend including an image. I have changed their example to the the cat image that I just committed.
 ![Image of fast.ai logo](images/cat.jpg)
+
 Hopefully that displays at least some understanding of the concept.
 
 ## What am I doing here?
