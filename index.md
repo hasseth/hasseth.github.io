@@ -4,7 +4,7 @@
 Hello and welcome to this blog. If you found this, how did you find this? At the time of writing, I don't even know if you can tell me that, because this is a really, really early attempt at blogging that follows a simple template provided by [fast.ai](https://www.fast.ai), and they haven't mentioned comments yet.  Perhaps they will by the end of the lesson.
 
 Anyways, they recommend including an image. I have changed their example to the the cat image that I just committed.
-![Image of fast.ai logo](images/cat.jpg)
+![Image of a cat](images/cat.jpg)
 
 Hopefully that displays at least some understanding of the concept.
 
